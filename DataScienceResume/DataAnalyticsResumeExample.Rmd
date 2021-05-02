@@ -1,0 +1,145 @@
+---
+title: "Noor Semaan Resume"
+author: Noor Semaan
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>noor.semaan@tufts.edu
+- <i class="fa fa-github"></i> [github.com/noorsemaan/](https://github.com/noorsemaann/)
+- <i class="fa fa-phone"></i> +1 123-456-7891
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Familiar with machine learning models for **biotechnology applications**
+
+- Proficient in **Python, R, and MATLAB**
+
+- Experience in **different stages of renewable energy development** 
+
+- Participated in various **chemical engineering labs** 
+
+- Worked on a project to formulate and present a business plan
+for an **ultrathin customizable hydrogel layered membrane**
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Noor Semaan {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Spring 2020 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Innovation and Management
+
+Medford, MA
+
+2020--Current
+
+
+### Tufts University 
+
+B.S. in Chemical and Biological Engineering 
+
+Medford, MA 
+
+2016--2020
+
+
+
+Internship Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Summer Intern 
+
+Foster + Partners
+
+London, UK
+
+July 2018
+
+- Performed calculations to determine energy optimization of different building designs targeting at least 70% efficiency when utilizing hydropower, solar, and wind energy instead of fossil fuels
+- Attended workshops to learn about and work with sustainable materials (3D printing & water-based paints)
+
+### Summer Intern 
+
+Ampion
+
+Boston, MA
+
+May 2018
+
+- Searched for, contacted, and obtained over 1,000 prospective clients in New York that would benefit from the
+company’s services
+- Validated current clients in upstate New York by matching their information on the online platform with their
+electricity bill
+- Updated the current company database for supply and demand electricity tariffs in different areas of New York
+
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### New Product Innovation  
+
+Tufts University
+
+Medford, MA
+
+December 2020
+
+<!--::: concise-->
+- Partnered with four graduate students to develop and defend a 50-paged business plan, which includes a product prototype, marketing section, and financials, for an online platform that enables engineering university professors to choose relevant corporate-sponsored projects for students to complete.
+<!--:::-->
+
+
+
+
+### Product and Process Design 
+
+Tufts University
+
+Medford, MA
+
+May 2020
+
+- Led a team of four senior chemical engineers to write and present a class 4 report outlining the construction of a potential battery-grade Lithium Hydroxide plant in Australia that encompasses engineering, economic, and safety aspects.
+
+
+
+
